@@ -215,7 +215,7 @@ const atualizarCarrinho = () => {
 
             let pizzaSizeName = cart[i].size;
 
-            let pizzaName = '${pizzaItem.name} (${pizzaSizeName})';
+            let pizzaName = `${pizzaItem.name} (${pizzaSizeName})`;
 
             // Preencher as informações
             cartItem.querySelector('img').src = pizzaItem.img;
