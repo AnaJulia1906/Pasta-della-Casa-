@@ -9,7 +9,7 @@ pizzaJson=[
         '2 porções',
         '3 porções'
       ],
-      description: 'Massa: Penne, com molho branco, queijo parmessão e torradas'
+      description: 'Massa: Pene, com molho branco, queijo parmessão e torradas'
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ pizzaJson=[
     },
     {
       id: 3,
-      name: 'Tagliatelle con salsa bianca e spezie.',
+      name: 'Tagliolini con salsa bianca e spezie.',
       img: 'imagem/talharim com molho branco.jpeg',
       price: [40.00, 55.00, 95.00],
       sizes: [
@@ -37,111 +37,111 @@ pizzaJson=[
     },
     {
       id: 4,
-      name: 'Brasileira',
-      img: 'images/brasileira.jpg',
-      price: [20.00, 23.00, 25.00],
+      name: 'Tagliolini con salsa ai funghi',
+      img: 'imagem/talharine co molho de cogumelos.jpeg',
+      price: [45.99, 65.00, 105.00],
       sizes: [
-        '6 fatias',
-        '8 fatias',
-        '12 fatias'
+        '1 porção',
+        '2 porções',
+        '3 porções'
       ],
-      description: 'Molho de tomate, mussarela, calabresa picada, palmito, champignon, azeitonas e orégano'
+      description: 'Massa: Talharim, com molho e pedaços de cogumelos'
     },
     {
       id: 5,
-      name: 'Portuguesa',
-      img: 'images/portuguesa.jpg',
-      price: [20.00, 23.00, 25.00],
+      name: 'Penne con salsa pesto e pomodorini',
+      img: 'imagem/pene com molho pesto.jpeg',
+      price: [45.99, 67.90, 97.50],
       sizes: [
-        '6 fatias',
-        '8 fatias',
-        '12 fatias'
+        '1 porção',
+        '2 porções',
+        '3 porções'
       ],
-      description: 'Molho de tomate, mussarela, presunto, ovos, cebolas, pimentão, azeitona  e orégano'
+      description: 'Massa: Pene, com molho pesto e tomates cereja'
     },
     {
       id: 6,
-      name: 'Moda da Casa',
-      img: 'images/da casa.jpg',
-      price: [20.00, 23.00, 25.00],
+      name: 'Chifferi con salsa Stroganoff',
+      img: 'imagem/caracol com molho de strogonof.jpeg',
+      price: [40.00, 55.00, 95.00],
       sizes: [
-        '6 fatias',
-        '8 fatias',
-        '12 fatias'
+        '1 porção',
+        '2 porções',
+        '3 porções'
       ],
-      description: 'Molho de tomate, mussarela, carne de sol, tomates em cubos, coentro, cebola, azeitona, catupiry e orégano'
+      description: 'Massa: Chifferi, com  molho de strogonoff'
     },
     {
       id: 7,
-      name: 'Banana com canela',
-      img: 'images/banana.jpg',
-      price: [20.00, 23.00, 25.00],
+      name: 'Maccheroni della casa con salsa di pomodoro',
+      img: 'imagem/massa caseira molho vermelho.jpeg',
+      price: [45.00, 67.00, 95.00],
       sizes: [
-        '6 fatias',
-        '8 fatias',
-        '12 fatias'
+        '1 porção',
+        '2 porções',
+        '3 porções'
       ],
-      description: 'Mussarela, banana, canela e açúcar'
+      description: 'Massa: Caseira, com molho de tomate'
     },
     {
       id: 8,
-      name: 'Chocolate com morango',
-      img: 'images/morango.jpg',
-      price: [20.00, 23.00, 25.00],
+      name: 'Penne con salsa di pomodoro',
+      img: 'imagem/macarrao com molho vermelho.jpeg',
+      price: [40.00, 55.00, 85.00],
       sizes: [
-        '6 fatias',
-        '8 fatias',
-        '12 fatias'
+        '1 porção',
+        '2 porções',
+        '3 porções'
       ],
-      description: 'Creme de leite, lascas de chocolate e morangos'
+      description: 'Massa: Pene, com molho de tomate'
     },
     {
         id: 9,
-        name: 'Chocolate com morango',
-        img: 'images/morango.jpg',
-        price: [20.00, 23.00, 25.00],
+        name: 'Tagliolini con salsa di tartufo nero e farofa di pancetta',
+        img: 'imagem/macarrao com trufa negra e farofa de bacon.jpeg',
+        price: [57.90, 85.90, 159.90],
         sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
+          '1 porção',
+          '2 porções',
+          '3 porções'
         ],
-        description: 'Creme de leite, lascas de chocolate e morangos'
+        description: 'Massa: Talharim, com molho de trufas negras e farofa de bacon'
       },
       {
         id: 10,
-        name: 'Chocolate com morango',
-        img: 'images/morango.jpg',
-        price: [20.00, 23.00, 25.00],
+        name: 'Maccheroni della casa vegani con salsa di carne di soia',
+        img: 'imagem/macarrao grandinho carne vegano.jpeg',
+        price: [45.00, 65.00, 99.90],
         sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
+            '1 porção',
+            '2 porções',
+            '3 porções'
         ],
-        description: 'Creme de leite, lascas de chocolate e morangos'
+        description: 'Massa: Caseira vegana, com molho de carne de soja'
       },
       {
         id: 11,
-        name: 'Chocolate com morango',
-        img: 'images/morango.jpg',
-        price: [20.00, 23.00, 25.00],
+        name: 'Tagliolini con salmone e salsa ai quattro formaggi',
+        img: 'imagem/macarrão com atumw.jpeg',
+        price: [47.90, 67.00, 129.90],
         sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
+          '1 porção',
+          '2 porções',
+          '3 porções'
         ],
-        description: 'Creme de leite, lascas de chocolate e morangos'
+        description: 'Massa: Talharim, com salmão desfiado e molho de quatro queijos'
       },
       {
         id: 12,
-        name: 'Chocolate com morango',
-        img: 'images/morango.jpg',
+        name: 'Tagliolini con salsa bianca e filetto di manzo',
+        img: 'imagem/spaguete com carne.jpeg',
         price: [20.00, 23.00, 25.00],
         sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
+          '1 porção',
+          '2 porções',
+          '3 porções'
         ],
-        description: 'Creme de leite, lascas de chocolate e morangos'
+        description: 'Massa: Talharim, com molho quatro queijos e filé minhon'
       }
       
   ];
