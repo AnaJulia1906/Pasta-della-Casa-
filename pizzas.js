@@ -142,6 +142,41 @@ pizzaJson=[
           '3 porções'
         ],
         description: 'Massa: Talharim, com molho quatro queijos e filé minhon'
+      },
+      {
+        id: 13,
+        name: 'Tagliolini con salsa bianca e filetto di manzo',
+        img: 'imagem/spaguete com carne.jpeg',
+        price: [20.00, 23.00, 25.00],
+        sizes: [
+          '1 porção',
+          '2 porções',
+          '3 porções'
+        ],
+        description: 'Massa: Talharim, com molho quatro queijos e filé minhon'
+      },
+      {
+        id: 14,
+        name: 'Tagliolini con salsa bianca e filetto di manzo',
+        img: 'imagem/spaguete com carne.jpeg',
+        price: [20.00, 23.00, 25.00],
+        sizes: [
+          '1 porção',
+          '2 porções',
+          '3 porções'
+        ],
+        description: 'Massa: Talharim, com molho quatro queijos e filé minhon'
+      },
+      {
+        id: 15,
+        name: 'Tagliolini con salsa bianca e filetto di manzo',
+        img: 'imagem/spaguete com carne.jpeg',
+        price: [20.00, 23.00, 25.00],
+        sizes: [
+          '1 porção',
+          '2 porções',
+          '3 porções'
+        ],
+        description: 'Massa: Talharim, com molho quatro queijos e filé minhon'
       }
-      
   ];
