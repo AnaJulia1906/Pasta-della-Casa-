@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    position: fixed;
+    position: absolute;
     left:0;
     top:0;
     right:0;
@@ -513,4 +513,9 @@ h1, h2 {
 
 #img-logo {
     width: 50px;
+}
+#logo { 
+    transform: translateX(-400px);     
+    max-width: 120px; 
+    height: auto; 
 }
