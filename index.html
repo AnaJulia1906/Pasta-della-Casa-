@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="imagem/" />
-    <link rel="shortcut icon" href="imagem/logo.jpeg" type="image/x-icon">
+    <link rel="shortcut icon" href="imagem/logoo.jpeg" type="image/x-icon">
 
     <title>Pasta della Casa</title>
     <link rel="stylesheet" href="style.css" />
@@ -43,7 +43,7 @@
     <!-- .menu-openner aparecera no modo mobile -->
     <header>
         <h1>Pasta della Casa</h1>
-        <img src="" id="logo">
+        <img src="imagem/logo menor.png" id="logo1">
         <div class="menu-openner"><span>0</span>🛒</div>
     </header>
     <!-- /menu-openner -->
@@ -61,7 +61,7 @@
     <aside>
         <div class="cart--area">
             <div class="menu-closer"></i></div>
-            <h1>Suas Pizzas</h1>
+            <h1>Seus Pratos</h1>
             <div class="cart"></div>
             <div class="cart--details">
                 <div class="cart--totalitem subtotal">
@@ -77,6 +77,10 @@
                     <span>R$ --</span>
                 </div>
                 <div class="cart--finalizar">Finalizar a compra</div>
+                <div class="cart--qrcode-area">
+                    <p>Escaneie o QR Code para pagar:</p>
+                    <div id="qrcode"> <img src="imagem/qrcode-pix.png"></div>
+                </div>
             </div>
         </div>
     </aside>
@@ -93,7 +97,7 @@
                 <h1>--</h1>
                 <div class="pizzaInfo--desc">--</div>
                 <div class="pizzaInfo--sizearea">
-                    <div class="pizzaInfo--sector">Tamanho</div>
+                    <div class="pizzaInfo--sector">Quantidade</div>
                     <div class="pizzaInfo--sizes">
                         <div data-key="p" class="pizzaInfo--size">1 Prato
                         <span>--</span></div>
@@ -122,5 +126,7 @@
     <!-- /janela modal .pizzaWindowArea -->
     <script src="pizzas.js"></script>
     <script src="javascript.js"></script>
+
+
 </body>
 </html>
