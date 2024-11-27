@@ -55,7 +55,7 @@ header h1 {
 }
 
 aside {
-    background-color:#ffffffe5;
+    background-color:#ebc87de5;
     width:0vw;
     font-family:'Hepta Slab', Helvetica, Arial;
     transition:all ease .2s;
@@ -514,8 +514,19 @@ h1, h2 {
 #img-logo {
     width: 50px;
 }
-#logo { 
+#logo1 { 
     transform: translateX(-400px);     
     max-width: 120px; 
     height: auto; 
+}
+
+.cart--qrcode-area {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#qrcode {
+    transform: translateX(-95px);     
+    max-width: 50px; 
+    height: auto;
 }
