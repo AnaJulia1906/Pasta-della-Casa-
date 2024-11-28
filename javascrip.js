@@ -276,7 +276,8 @@ const finalizarCompra = () => {
         seleciona('aside').classList.remove('show');
         seleciona('aside').style.left = '100vw';
         seleciona('header').style.display = 'flex';
-        alert("Pedido Feito");
+        alert("Clique para ir para o fórmulario");
+        window.location.href = '/for.html'; 
     });
 };
 
